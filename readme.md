@@ -108,3 +108,7 @@
   108  git push 
   109  git status 
   110  history > readme.md
+  111  git add .
+  112  git push 
+  113  git status 
+  114  history > readme.md
